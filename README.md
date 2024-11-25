@@ -2,12 +2,7 @@
 <a id="readme-top"></a>
 
 
-
-<!-- PROJECT SHIELDS -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
+ 
 
 
 <!-- PROJECT INFO -->
