@@ -10,7 +10,7 @@
 <div align="center">
   
   <h3 align="center">Ecofriend.ly</h3>
-  <h4 align="center">Hack Knight'24 Best Environmental Hack</h4>
+ 
 
   <p align="center">
     Ecofriend.ly is an AI-powered app that identifies waste, reports it to authorities, and gamifies cleanup with points and leaderboards—making it fun and easy to create cleaner, greener communities!
