@@ -20,10 +20,7 @@
   <p align="center">
     Ecofriend.ly is an AI-powered app that identifies waste, reports it to authorities, and gamifies cleanup with points and leaderboards—making it fun and easy to create cleaner, greener communities!
     <br />
-    <a href="https://github.com/mislam77/Hack-Knight-2024-Hackathon"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/mislam77/Hack-Knight-2024-Hackathon">View Demo</a>
+  
   </p>
 </div>
 
@@ -54,9 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br />
-<div align="center">
-  Check out Demo ----> https://www.youtube.com/watch?v=51Pz8MDM5bM
-</div>
+ 
 <br />
 <p>Ecofriend.ly is a mobile application built with <strong>React Native</strong>, <strong>Nativewind</strong>, <strong>Firebase</strong>, and <strong>Gemini AI</strong>, designed to empower communities to tackle waste management through technology and gamification. Developed by a team of passionate developers during a hackathon, the app offers an innovative, engaging, and impactful approach to keeping urban areas clean.</p><br />
 
@@ -134,31 +129,4 @@ Join our community of developers creating universal apps.
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mislam77/Hack-Knight-2024-Hackathon.svg?style=for-the-badge
-[contributors-url]: https://github.com/mislam77/Hack-Knight-2024-Hackathon/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mislam77/Hack-Knight-2024-Hackathon.svg?style=for-the-badge
-[forks-url]: https://github.com/mislam77/Hack-Knight-2024-Hackathon/network/members
-[stars-shield]: https://img.shields.io/github/stars/mislam77/Hack-Knight-2024-Hackathon.svg?style=for-the-badge
-[stars-url]: https://github.com/mislam77/Hack-Knight-2024-Hackathon/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mislam77/Hack-Knight-2024-Hackathon.svg?style=for-the-badge
-[issues-url]: https://github.com/mislam77/Hack-Knight-2024-Hackathon/issues
+ 
